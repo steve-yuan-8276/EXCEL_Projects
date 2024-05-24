@@ -1,2 +1,3 @@
-# EXCEL_Projects
-EXCEL_projects
+# EXCEL Projects Lists
+
+- Multiple Year Stock Data Analysis(VBA Scripts) 
